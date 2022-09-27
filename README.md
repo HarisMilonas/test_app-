@@ -1,4 +1,4 @@
-First Tesy repo on the Complete ruby on Rails Development 
+First Test repo on the Complete ruby on Rails Development 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
